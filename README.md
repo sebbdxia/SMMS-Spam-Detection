@@ -1,6 +1,6 @@
 # SMMS-Spam-Detection
 
-Concevoir un classifieur de détection automatique de SPAM.
+Concevoir un classifieur de détection automatique de SPAM. 
 
 La collection SMS Spam est un ensemble de messages SMS marqués qui ont été collectés pour la recherche sur les SMS Spam. Elle contient un ensemble de messages SMS en anglais de 5 574 messages, étiquetés selon qu'ils sont ham (légitimes) ou spam. Rémi vous encourage à vous documenter sur les caractéristiques type des spam et de développer votre stratégie de préparation des données dans ce sens.
 
